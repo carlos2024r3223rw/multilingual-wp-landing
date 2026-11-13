@@ -2,11 +2,11 @@
 
 A custom, lightweight WordPress theme built from scratch for high-converting multilingual landing pages (**Spanish**, **English**, and **French**), without relying on heavy page builders or bloated third-party plugins.
 
-🔗 **Live Demo:** [multilinguallanding.webcarlos.dev](https://multilinguallanding.webcarlos.dev)
+ **Live Demo:** [multilinguallanding.webcarlos.dev](https://multilinguallanding.webcarlos.dev)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Instant Multilingual Support (ES / EN / FR):** Seamless language switching across navigation, hero copy, and footer sections.
 - **Zero Page-Builder Bloat:** Built purely with native WordPress template hierarchy (`front-page.php`, `header.php`, `footer.php`), clean PHP, vanilla JavaScript (ES6+), and modular CSS3.
@@ -15,7 +15,7 @@ A custom, lightweight WordPress theme built from scratch for high-converting mul
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **CMS:** WordPress
 - **Backend:** PHP
@@ -23,7 +23,7 @@ A custom, lightweight WordPress theme built from scratch for high-converting mul
 
 ---
 
-## 📂 Theme Structure
+## Theme Structure
 
 ```text
 multilingual-wp-landing/
