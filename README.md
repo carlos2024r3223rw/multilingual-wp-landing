@@ -1,23 +1,26 @@
 # Multilingual WordPress Landing Page
 
-A lightweight, custom WordPress theme for multilingual landing pages in **Spanish, English, and French**. The project uses WordPress templates, PHP, CSS, and vanilla JavaScript instead of a page builder.
+**One lightweight landing-page theme. Three languages. No page-builder dependency.**
 
-**Live demo:** [multilinguallanding.webcarlos.dev](https://multilinguallanding.webcarlos.dev)
+This custom WordPress theme gives small businesses and agencies a simple way to present a focused landing page in **Spanish, English, and French**. The layout brings the value proposition, calls to action, feature content, and contact area into one responsive page.
 
-## Features
+**[View the live demo](https://multilinguallanding.webcarlos.dev)**
 
-- Language switcher for Spanish, English, and French.
-- Responsive landing-page layout with a hero section, calls to action, feature content, and footer.
-- Custom WordPress theme templates and localization helpers.
-- Semantic HTML and mobile-first styling.
-- Lead-capture form interface. Connect and verify a form endpoint before using it to collect submissions.
+## Why this project
+
+A landing page should make a service easy to understand and give visitors a clear next step. This theme keeps the page structure lean, makes the language switcher easy to find, and uses standard WordPress templates rather than a heavy page builder.
+
+## Highlights
+
+- Language switching across navigation, hero content, and footer.
+- Responsive layout with clear calls to action and feature sections.
+- Custom WordPress templates and localization helpers.
+- Semantic HTML and mobile-first CSS.
+- Lead-capture form interface. Connect and verify a submission endpoint before using it to collect real leads.
 
 ## Technology
 
-- WordPress
-- PHP
-- HTML5 and CSS3
-- Vanilla JavaScript (ES6+)
+WordPress · PHP · HTML5 · CSS3 · Vanilla JavaScript (ES6+)
 
 ## Theme structure
 
@@ -35,16 +38,14 @@ multilingual-wp-landing/
 
 ## Install locally
 
-1. Set up a local WordPress site using a local development environment.
+1. Set up a local WordPress site.
 2. Copy this repository into `wp-content/themes/`.
-3. In the WordPress dashboard, open **Appearance → Themes** and activate the theme.
-4. Set the site homepage to a static page if required by the local WordPress configuration.
-5. Review the language switcher and form behavior in the browser. Configure a form endpoint or plugin before collecting real submissions.
+3. In the WordPress dashboard, go to **Appearance → Themes** and activate the theme.
+4. Set the homepage to a static page if your WordPress setup requires it.
+5. Check the language switcher and connect a form endpoint before accepting submissions.
 
-## Deployment
-
-Deploy the theme files to a WordPress installation and activate the theme. The live demo is a visual preview; this repository contains theme source code, not a complete WordPress installation or database.
+This repository contains the theme source, not a complete WordPress installation or database.
 
 ## License
 
-No license file is currently included. Contact the author before reusing or distributing this project.
+No license file is currently included. Please contact the author before reusing or distributing the project.
