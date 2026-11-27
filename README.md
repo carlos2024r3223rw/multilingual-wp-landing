@@ -6,6 +6,8 @@ This custom WordPress theme gives small businesses and agencies a simple way to 
 
 **[View the live demo](https://multilinguallanding.webcarlos.dev)**
 
+> **Portfolio project:** The demo page uses sample content to showcase the theme. It is not a live business or a product for sale.
+
 ## Why this project
 
 A landing page should make a service easy to understand and give visitors a clear next step. This theme keeps the page structure lean, makes the language switcher easy to find, and uses standard WordPress templates rather than a heavy page builder.
@@ -21,6 +23,14 @@ A landing page should make a service easy to understand and give visitors a clea
 ## Technology
 
 WordPress · PHP · HTML5 · CSS3 · Vanilla JavaScript (ES6+)
+
+## Screenshots
+
+<img width="1841" height="852" alt="Landing page hero section" src="https://github.com/user-attachments/assets/38c90207-d778-4bce-a5b7-8e0cc6f7f138" />
+
+<img width="1877" height="968" alt="Landing page features section" src="https://github.com/user-attachments/assets/bae9921c-7ba0-4005-97ee-3393642303bb" />
+
+<img width="1848" height="966" alt="Landing page contact section" src="https://github.com/user-attachments/assets/64cb7292-9112-4dc5-9bfc-df734f3b9b07" />
 
 ## Theme structure
 
@@ -45,6 +55,10 @@ multilingual-wp-landing/
 5. Check the language switcher and connect a form endpoint before accepting submissions.
 
 This repository contains the theme source, not a complete WordPress installation or database.
+
+## Author
+
+Developed by **Carlos Lima**
 
 ## License
 
